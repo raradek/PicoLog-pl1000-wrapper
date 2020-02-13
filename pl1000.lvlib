@@ -14,6 +14,7 @@
 		<Item Name="ADC to Volts.vi" Type="VI" URL="../ADC to Volts.vi"/>
 		<Item Name="Pico Status Code to Error Cluster.vi" Type="VI" URL="../Pico Status Code to Error Cluster.vi"/>
 		<Item Name="Pico Status Code to String.vi" Type="VI" URL="../Pico Status Code to String.vi"/>
+		<Item Name="Split Values into Channels.vi" Type="VI" URL="../Split Values into Channels.vi"/>
 		<Item Name="Volts to ADC.vi" Type="VI" URL="../Volts to ADC.vi"/>
 	</Item>
 	<Item Name="input" Type="Folder">
